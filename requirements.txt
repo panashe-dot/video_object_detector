@@ -1,8 +1,7 @@
-streamlit
-tempfile
+streamlit=1.19.0
 cv2    
 math  
 pandas
 tensorflow
 keras
-pyngrok
+pyngrok=4.1.1
