@@ -1,7 +1,9 @@
-streamlit=1.19.0
+
+pip==23.0.1
+streamlit==1.19.0
 cv2    
 math  
 pandas
 tensorflow
 keras
-pyngrok=4.1.1
+pyngrok==4.1.1
