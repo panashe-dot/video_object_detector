@@ -1,9 +1,9 @@
 
 pip==23.0.1
 streamlit==1.19.0
-opencv
 math  
 pandas
 tensorflow
 keras
 pyngrok==4.1.1
+opencv-python-headless==4.5.4.60
