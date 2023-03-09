@@ -1,0 +1,8 @@
+streamlit
+tempfile
+cv2    
+math  
+pandas
+tensorflow
+keras
+pyngrok
